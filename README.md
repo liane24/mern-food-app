@@ -14,6 +14,6 @@ Food Ordering System
 - Back end: Node.js, Express, Mongoose, Stripe
 - Database: MongoDB
 
-<img src="screenshots/Login.PNG" width=400></br><img src="screenshots/Register.png" width=400></br><img src="screenshots/screenshot1.png" width=400></br><img src="screenshots/screenshot2.png" width=400></br>
-<img src="screenshots/screenshot3.png" width=400></br><img src="screenshots/screenshot4.png" width=400></br><img src="screenshots/screenshot5.png" width=400></br><img src="screenshots/screenshot6.png" width=400></br>
-<img src="screenshots/screenshot7.png" width=400></br><img src="screenshots/screenshot8.png" width=400></br>
+<img src="screenshots/Login.PNG" width=400></br><img src="screenshots/Register.PNG" width=400></br><img src="screenshots/screenshot1.PNG" width=400></br><img src="screenshots/screenshot2.PNG" width=400></br>
+<img src="screenshots/screenshot3.PNG" width=400></br><img src="screenshots/screenshot4.PNG" width=400></br><img src="screenshots/screenshot5.PNG" width=400></br><img src="screenshots/screenshot6.PNG" width=400></br>
+<img src="screenshots/screenshot7.PNG" width=400></br><img src="screenshots/screenshot8.PNG" width=400></br>
