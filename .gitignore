@@ -24,4 +24,8 @@ yarn-error.log*
 
 node_modules
 .env
+<<<<<<< HEAD
 README.md
+=======
+README.md
+>>>>>>> 781d196cb0cf08616722f8efabc16fb26bebbcf2
