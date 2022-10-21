@@ -1,6 +1,3 @@
-# mern-food-app
-Full Stack Food Ordering App made with React, Redux, Tailwind CSS, Firebase with authentication, Stripe, Node.js, Express and MongoDB
-
 # Food Ordering System
 Food Ordering System
 
@@ -12,7 +9,7 @@ Food Ordering System
 - Data stored in MongoDB
 - Responsive and seamless user interface using Tailwind CSS
 
-#Technologies
+# Technologies
 - Front end: React, Redux, Tailwind CSS, Toastify
 - Back end: Node.js, Express, Mongoose, Stripe
 - Database: MongoDB
