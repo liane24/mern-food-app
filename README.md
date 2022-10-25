@@ -1,4 +1,4 @@
-# Food Ordering System
+# Food Ordering Syste
 Food Ordering System
 
 # Functionalities
@@ -11,7 +11,7 @@ Food Ordering System
 
 # Technologies
 - Front-end: React, Redux, Tailwind CSS, Toastify
-- Back-end: Node.js, Express, Mongoose, Stripe
+- Back-end: Node.js, Express, Mongoose, Stripe, Generated fake data by using Faker.js
 - Database: MongoDB
 
 <img src="screenshots/Login.PNG" width=400></br><img src="screenshots/Register.PNG" width=400></br><img src="screenshots/screenshot1.PNG" width=400></br><img src="screenshots/screenshot2.PNG" width=400></br>
