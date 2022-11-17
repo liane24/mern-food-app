@@ -1,4 +1,4 @@
-# Food Ordering Syste
+# Food Ordering SysteM
 Food Ordering System
 
 # Functionalities
